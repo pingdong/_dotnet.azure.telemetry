@@ -10,6 +10,9 @@ trigger:
 pool:
   vmImage: 'ubuntu-latest'
 
+workspace:
+    clean: all
+
 variables:
   buildConfiguration: 'Debug'
   BuildConfiguration.Release: 'Release'
