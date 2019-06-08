@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{CC7EEF9F-802B-4832-9B74-E779AA5C0997}") = "PingDong.Azure.Telemetry", "src\PingDong.Azure.Telemetry\PingDong.Azure.Telemetry.csproj", "{63475B9D-1DAE-4CA3-B390-4714F0ACF553}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingDong.Azure.Telemetry", "src\PingDong.Azure.Telemetry\PingDong.Azure.Telemetry.csproj", "{63475B9D-1DAE-4CA3-B390-4714F0ACF553}"
 EndProject
-Project("{FF4E7D1F-2682-4EBD-94BC-5118E979ED92}") = "PingDong.Azure.Telemetry.UnitTests", "src\PingDong.Azure.Telemetry.UnitTests\PingDong.Azure.Telemetry.UnitTests.csproj", "{C0F701D7-CD11-472C-A538-53AED2C4D918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PingDong.Azure.Telemetry.UnitTests", "src\PingDong.Azure.Telemetry.UnitTests\PingDong.Azure.Telemetry.UnitTests.csproj", "{C0F701D7-CD11-472C-A538-53AED2C4D918}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
