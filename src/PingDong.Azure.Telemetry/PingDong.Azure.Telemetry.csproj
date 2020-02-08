@@ -15,15 +15,15 @@
 
   <!-- Assembly -->
   <PropertyGroup>
-    <AssemblyVersion>0.0.2.1</AssemblyVersion>
-    <FileVersion>0.0.2.1</FileVersion>
+    <AssemblyVersion>0.0.2.2</AssemblyVersion>
+    <FileVersion>0.0.2.2</FileVersion>
   </PropertyGroup>
 
   <!-- Package -->
   <PropertyGroup>
     <PackageId>PingDong.Azure.Telemetry</PackageId>
     <Description>Providing Azure telemetry facilities</Description>
-    <Version>0.0.2.1</Version>
+    <Version>0.0.2.2</Version>
     <Authors>Ping Dong</Authors>
     <Copyright>Copyright (c) 2019 Ping Dong</Copyright>
     <RepositoryUrl>https://github.com/pingdong/dotnet.azure.telemetry</RepositoryUrl>
@@ -42,8 +42,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.12.0" />
-    <PackageReference Include="PingDong.Azure.Telemetry.Core" Version="0.0.2.1" />
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.12.1" />
+    <PackageReference Include="PingDong.Azure.Telemetry.Core" Version="0.0.2.2" />
   </ItemGroup>
 
 </Project>
